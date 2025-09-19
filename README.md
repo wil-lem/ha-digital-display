@@ -18,7 +18,7 @@ This project is designed for PlatformIO and uses a microcontroller to display se
 ### Setup
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/wil-lem/ha-digital-display
    cd "Digital display"
    ```
 2. **Configure your secrets:**
